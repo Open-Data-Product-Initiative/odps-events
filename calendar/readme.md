@@ -2,6 +2,9 @@
 
 Welcome to the official ODPS Live event roadmap. This calendar outlines our upcoming monthly webinars focused on the Open Data Product Specification (ODPS) and its ecosystem. Each session dives into a unique theme—ranging from real-world use cases and tooling deep dives to roadmap updates and inspiring community stories.
 
+**ODPS Live takes place on the last Tuesday of each month at 5:00 PM GMT+4.**  
+This consistent schedule allows our community to plan ahead and never miss an opportunity to learn and connect.
+
 The goal of ODPS Live is to bring together adopters, contributors, and curious minds to learn, share, and shape the future of open, interoperable data products. Below you'll find the event planning tables for the remainder of 2025 and all of 2026. Topics and partner slots are still open for many months—get in touch if you'd like to contribute!
 
 ---
