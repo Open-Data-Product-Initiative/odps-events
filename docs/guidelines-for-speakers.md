@@ -1,2 +1,2 @@
-# Guidelines for speakers
+# ODPS Live guidelines for speakers
 
