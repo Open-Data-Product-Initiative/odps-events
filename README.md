@@ -23,4 +23,5 @@
 
   ## Event calendar
 
+Planned [monthly events are listed by year](https://github.com/Open-Data-Product-Initiative/odps-events/blob/main/calendar/readme.md). As partner or organization utilizing ODPS, pick a suitable slot and contact us to fix the topic and other details for the session. 
 
