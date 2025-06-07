@@ -1,4 +1,5 @@
 # Open Data Product Specification Online Events 
+![ODPS live]([http://url/to/img.png](https://github.com/Open-Data-Product-Initiative/odps-events/blob/main/docs/odps-live.png))
 
 ## Purpose of ODPS Live
 
