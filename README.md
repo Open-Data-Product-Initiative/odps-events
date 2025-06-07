@@ -1,7 +1,16 @@
 # Open Data Product Specification Online Events 
 
-## Purpose
+## Purpose of ODPS Live
 
+ODPS Live is a monthly webinar series designed to grow and support the global Open Data Product Specification (ODPS) community. Each session highlights a different aspect of building, adopting, or evolving ODPS—from real-world use cases and tooling deep dives to roadmap insights and inspiring stories.
+
+The purpose of these events is to:
+- Share knowledge and best practices from across the ODPS ecosystem
+- Foster collaboration between adopters, contributors, and partners
+- Provide a platform for innovation around open, interoperable data products
+- Keep the community informed on the evolution and impact of the ODPS standard
+
+Whether you're a seasoned contributor or new to the data product space, ODPS Live helps you stay connected, inspired, and equipped to lead with open standards.
 
 
 ## Theme Category Descriptions
