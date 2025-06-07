@@ -14,6 +14,14 @@ The purpose of these events is to:
 Whether you're a seasoned contributor or new to the data product space, ODPS Live helps you stay connected, inspired, and equipped to lead with open standards.
 
 
+
+## ODPS Live takes place on the last Tuesday of each month at 5:00 PM GMT+4
+
+This consistent schedule allows our community to plan ahead and never miss an opportunity to learn and connect.
+
+Planned [monthly events are listed by year](https://github.com/Open-Data-Product-Initiative/odps-events/blob/main/calendar/readme.md). As partner or organization utilizing ODPS, pick a suitable slot and contact us to fix the topic and other details for the session. 
+
+
 ## Theme Category Descriptions
 
 - **Use Case**  
@@ -31,7 +39,6 @@ Whether you're a seasoned contributor or new to the data product space, ODPS Liv
 - **Workshop / Panel**  
   Interactive or multi-speaker formats. Workshops focus on hands-on learning (e.g., writing specs), while panels bring together different voices from the ecosystem to explore timely or controversial topics.
 
-## Event calendar
 
-Planned [monthly events are listed by year](https://github.com/Open-Data-Product-Initiative/odps-events/blob/main/calendar/readme.md). As partner or organization utilizing ODPS, pick a suitable slot and contact us to fix the topic and other details for the session. 
+
 
