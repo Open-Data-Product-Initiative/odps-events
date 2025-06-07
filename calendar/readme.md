@@ -11,7 +11,7 @@
 | Dec     | TBD            | TBD                                                                    | TBD                           |
 
 
-## 🗓️ Events calendar 2026
+## Events calendar 2026
 
 | Month   | Theme Category | Tentative Topic | Host/Partner Slot |
 |---------|----------------|-----------------|-------------------|
