@@ -8,28 +8,29 @@ The goal of ODPS Live is to bring together adopters, contributors, and curious m
 
 ## Events calendar 2025
 
-| Month | Date and Time | Theme Category | Tentative Topic | Host/Partner Slot | Subscribe |
-|-------|----------------|----------------|-----------------|-------------------|-----------|
-| Sep   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Oct   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Nov   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Dec   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
+| Month | Date and Time         | Theme Category | Tentative Topic | Host/Partner Slot | Subscribe       |
+|-------|------------------------|----------------|-----------------|-------------------|-----------------|
+| Sep   | Sep 30, 2025 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Oct   | Oct 28, 2025 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Nov   | Nov 25, 2025 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+
 
 ---
 
 ## Events calendar 2026
 
-| Month | Date and Time | Theme Category | Tentative Topic | Host/Partner Slot | Subscribe |
-|-------|----------------|----------------|-----------------|-------------------|-----------|
-| Jan   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Feb   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Mar   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Apr   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| May   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Jun   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Jul   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Aug   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Sep   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Oct   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Nov   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
-| Dec   | TBD            | TBD            | TBD             | TBD               | [🔔](#)    |
+| Month | Date and Time         | Theme Category | Tentative Topic | Host/Partner Slot | Subscribe       |
+|-------|------------------------|----------------|-----------------|-------------------|-----------------|
+| Jan   | Jan 27, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Feb   | Feb 24, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Mar   | Mar 31, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Apr   | Apr 28, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| May   | May 26, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Jun   | Jun 30, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Jul   | Jul 28, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Aug   | Aug 25, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Sep   | Sep 29, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Oct   | Oct 27, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+| Nov   | Nov 24, 2026 @ 5 PM GMT+4 | TBD            | TBD             | TBD               | [🔔 Subscribe](#) |
+
+
